@@ -1,0 +1,9 @@
+{
+  "name": "collapsible-div",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/romw314/collapsible-div",
+  "author": "romw314",
+  "license": "Unlicense",
+  "private": false
+}
